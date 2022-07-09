@@ -35,9 +35,15 @@
 ## 🤝 Connect with me
 
 [![@ moocher@moocher.ru](https://img.shields.io/badge/moocher@moocher.ru-B71C1C?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:moocher@moocher.ru)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-fomin-85915a124/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/srgfmn/)
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sfominx)
+
+## 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfominx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
+
+![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfominx&show_icons=true&theme=default)
+
