@@ -34,7 +34,7 @@
 
 ## 🤝 Connect with me
 
-[![@ moocher@moocher.ru](https://img.shields.io/badge/moocher@moocher.ru-B71C1C?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:moocher@moocher.ru)
+[![@ sergiusnn@gmail.com](https://img.shields.io/badge/sergiusnn@gmail.com-B71C1C?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sergiusnn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-fomin-85915a124/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/srgfmn/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sfominx)
