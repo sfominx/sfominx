@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Sergey
 
 - 🇷🇺 I live in Nizhniy Novgorod, Russia.
-- 🐍 I'm an engineer at Intel.
+- 🐍 I'm an engineer at Sber.
 - 🤖 Most of the time I'm writing on Python. Sometimes JavaScript (Vue.js).
 - ✉️ You can shoot me an email at moocher@moocher.ru.
 
