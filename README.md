@@ -3,7 +3,7 @@
 - 🇷🇺 I live in Nizhniy Novgorod, Russia.
 - 🐍 I'm an engineer at Sber.
 - 🤖 Most of the time I'm writing on Python. Sometimes JavaScript (Vue.js).
-- ✉️ You can shoot me an email at moocher@moocher.ru.
+- ✉️ You can shoot me an email at sergiusnn@gmail.com.
 
 #### My CV: [eng.pdf](https://drive.google.com/file/d/1-MgxKkE5R3tYqnjZ3zxE_HkbqHU8YGw1/view?usp=sharing) [рус.пдф](https://drive.google.com/file/d/1-6PX6OuFcbl5ywjys8wxQKWWcDgematW/view?usp=sharing)
 
